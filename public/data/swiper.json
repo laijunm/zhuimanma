@@ -1,0 +1,66 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "season_id": 26470,
+            "title": "一拳超人",
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/098f9f01e59beecd77d14b0e2eee5ef4cb549d0b.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/52c014c5b2d6f076fcd2c4f73d0428d87f73ba12.jpg",
+            "vertical_cover": "https://i0.hdslb.com/bfs/manga-static/accd35013c082cb622fb8749c86aec3bd4fb9253.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 208,
+            "total": 213,
+            "release_time": "",
+            "last_short_title": "208",
+            "ext": "",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "热血"
+            ]
+        },
+        {
+            "season_id": 28201,
+            "title": "间谍过家家",
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/53639630d1fe0ae94c1d73cbb05139cb4ba89e42.jpg",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/b1ea105c917aab65909e88f1b635ed26d8f35ed4.jpg",
+            "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/c62668e300b5212fe5504f6fa9b4b5c630f8ebeb.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 75,
+            "total": 78,
+            "release_time": "",
+            "last_short_title": "64",
+            "ext": "",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "都市"
+            ]
+        },
+        {
+            "season_id": 25539,
+            "title": "全职猎人",
+            "horizontal_cover": "http://i0.hdslb.com/bfs/manga-static/67a0840990a3809f28629473a6db6b0d4246e563.png",
+            "square_cover": "http://i0.hdslb.com/bfs/manga-static/8732419abcf882e2ff76d9034c10979cf4ce5a33.jpg",
+            "vertical_cover": "http://i0.hdslb.com/bfs/manga-static/63eb0d12867473f344186b0f7cb84a19d694d26e.jpg",
+            "is_finish": 0,
+            "status": 0,
+            "last_ord": 390,
+            "total": 390,
+            "release_time": "",
+            "last_short_title": "390",
+            "ext": "",
+            "recommend_reason": "",
+            "discount_type": 0,
+            "allow_wait_free": false,
+            "styles": [
+                "热血"
+            ]
+        }
+    ]
+}

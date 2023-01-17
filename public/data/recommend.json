@@ -1,0 +1,1208 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "feeds": [{
+            "item_id": "32867",
+            "parent_id": "32867",
+            "title": "不老不死的我娶了个邪神老婆",
+            "jump_value": "bilicomic://reader_progress/32867",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/1362fba2144835db2a0dc47fdafab2d55bbd1318.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": true
+            },
+            "description": {
+                "description": "当前热门的作品",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "03",
+                "is_finish": 0,
+                "main_style_name": "奇幻",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 0,
+                "styles": ["奇幻"],
+                "tags": ["单女主", "恋爱", "冒险", "西方", "龙傲天", "搞笑", "克苏鲁"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "29127",
+            "parent_id": "29127",
+            "title": "穿越兽世后我成了万人迷",
+            "jump_value": "bilicomic://reader_progress/29127",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/6310264582092b64d5dbd3a5a68687ea5d2209b0.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分高于98%同类",
+                "lastest_short_title": "第127话",
+                "is_finish": 0,
+                "main_style_name": "架空",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 8.4521,
+                "styles": ["架空"],
+                "tags": ["黏人", "种田", "甜宠", "狗粮"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "28288",
+            "parent_id": "28288",
+            "title": "我的妹妹有毒",
+            "jump_value": "bilicomic://reader_progress/28288",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/1a9d66e4e3fc1dbdb760b6d9cec4e55187606b3e.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "90",
+                "is_finish": 0,
+                "main_style_name": "奇幻",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 6.9427,
+                "styles": ["奇幻"],
+                "tags": ["异能", "妹妹", "搞笑", "迪化", "冒险"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "27903",
+            "parent_id": "27903",
+            "title": "山海镜花·镜灵集",
+            "jump_value": "bilicomic://reader_progress/27903",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/d89a6576caee8583d9639e5240b83e7b3da691f9.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "完结篇",
+                "is_finish": 0,
+                "main_style_name": "古风",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 7.4848,
+                "styles": ["古风"],
+                "tags": ["妖怪", "神魔", "逗比", "修真", "剧情", "奇幻", "冒险"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "26470",
+            "parent_id": "26470",
+            "title": "一拳超人",
+            "jump_value": "bilicomic://reader_progress/26470",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/accd35013c082cb622fb8749c86aec3bd4fb9253.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分高于85%同类",
+                "lastest_short_title": "218",
+                "is_finish": 0,
+                "main_style_name": "热血",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 8.5784,
+                "styles": ["热血"],
+                "tags": ["懒散", "战斗", "冒险"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "27618",
+            "parent_id": "27618",
+            "title": "收好人卡的一百种姿势",
+            "jump_value": "bilicomic://reader_progress/27618",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/3fefabb9bc0c2cc97b6db0efbf357da0dc552a2a.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "120",
+                "is_finish": 1,
+                "main_style_name": "都市",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 0,
+                "styles": ["都市"],
+                "tags": ["逆袭", "系统", "废柴", "美女", "装逼", "爽"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "28557",
+            "parent_id": "28557",
+            "title": "侧耳倾听",
+            "jump_value": "bilicomic://reader_progress/28557",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/6ada5a386da2252c96909f4dc5298830dbe8f0df.png",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分9.5",
+                "lastest_short_title": "080",
+                "is_finish": 1,
+                "main_style_name": "",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 9.5248,
+                "styles": [],
+                "tags": ["双男主", "天才", "穿越", "救赎", "治愈"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "29137",
+            "parent_id": "29137",
+            "title": "怪谈档案",
+            "jump_value": "bilicomic://reader_progress/29137",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/768b33fdd9aaddec3ddca0302d95849489d59ed6.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "95",
+                "is_finish": 1,
+                "main_style_name": "悬疑灵异",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 0,
+                "styles": ["悬疑灵异"],
+                "tags": ["悬疑", "恐怖"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "27449",
+            "parent_id": "27449",
+            "title": "鉴宝金瞳",
+            "jump_value": "bilicomic://reader_progress/27449",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/f51d24500c7f4e7337f55148dc89c6ac5f7e80f8.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "071",
+                "is_finish": 0,
+                "main_style_name": "都市",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 0,
+                "styles": ["都市"],
+                "tags": ["逆袭", "鉴宝", "青年", "装逼"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "26992",
+            "parent_id": "26992",
+            "title": "春原庄的管理人",
+            "jump_value": "bilicomic://reader_progress/26992",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/c558af9b74149f0c114a683d3a34e76a51f7aa96.jpg",
+            "icons": {
+                "allow_wait_free": true,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "最终话",
+                "is_finish": 1,
+                "main_style_name": "都市",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 7.6169,
+                "styles": ["都市"],
+                "tags": ["呆萌", "温柔", "腹黑", "同居", "修罗场", "恋爱", "少年", "姐姐", "日常", "轻松"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "27754",
+            "parent_id": "27754",
+            "title": "榴花不及春",
+            "jump_value": "bilicomic://reader_progress/27754",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/e74348657a9de2ffbd055537d0f8ba48bc9ec0b4.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分9.6",
+                "lastest_short_title": "第55话上",
+                "is_finish": 0,
+                "main_style_name": "古风",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 9.5867,
+                "styles": ["古风"],
+                "tags": ["皇家权贵", "善良", "自强", "宫廷", "恋爱", "爽文", "剧情"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "27932",
+            "parent_id": "27932",
+            "title": "蜂鸟效应",
+            "jump_value": "bilicomic://reader_progress/27932",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/3d42139e1ae3a6957da40f4effb967b26edfe479.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "51",
+                "is_finish": 1,
+                "main_style_name": "",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 8.410079298702469,
+                "styles": [],
+                "tags": ["学生", "勇敢", "恋爱", "科幻"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "28465",
+            "parent_id": "28465",
+            "title": "总裁在下",
+            "jump_value": "bilicomic://reader_progress/28465",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/33854099b9d9e665978965b0987f632695acee89.jpg",
+            "icons": {
+                "allow_wait_free": true,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "第66话",
+                "is_finish": 0,
+                "main_style_name": "现代",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 0,
+                "styles": ["现代"],
+                "tags": ["清冷", "斯文", "勇敢", "女追男", "恋爱", "追妻", "狗粮", "甜宠"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "26525",
+            "parent_id": "26525",
+            "title": "银河机攻队",
+            "jump_value": "bilicomic://reader_progress/26525",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/09e7bacdd0b82bcb496b04642a961904eddec29d.jpg",
+            "icons": {
+                "allow_wait_free": true,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "86",
+                "is_finish": 1,
+                "main_style_name": "科幻",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 0,
+                "styles": ["科幻"],
+                "tags": ["懒散", "争霸", "校园", "机甲", "学生", "少年"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "30278",
+            "parent_id": "30278",
+            "title": "霸道小叔，请轻撩",
+            "jump_value": "bilicomic://reader_progress/30278",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/c31a67a3c8f879395da670b7fe60d9fdfb1d8b89.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "",
+                "lastest_short_title": "395",
+                "is_finish": 0,
+                "main_style_name": "现代",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 0,
+                "styles": ["现代"],
+                "tags": ["霸总", "玛丽苏", "自强", "强强", "重生", "甜宠"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "28982",
+            "parent_id": "28982",
+            "title": "我的弟子都超神",
+            "jump_value": "bilicomic://reader_progress/28982",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/d7ed1150fb3e0219e0545e37c8408edb9c59c588.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分高于90%同类",
+                "lastest_short_title": "192",
+                "is_finish": 0,
+                "main_style_name": "玄幻",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 8.6494,
+                "styles": ["玄幻"],
+                "tags": ["嚣张", "反差", "穿越", "东方", "功法", "龙傲天", "师徒", "无敌", "装逼", "爽"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "27657",
+            "parent_id": "27657",
+            "title": "神赐予我这种尴尬的超能力究竟有什么用？",
+            "jump_value": "bilicomic://reader_progress/27657",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/1a3da1c1cb863931532e60329e28ea56cfccd15e.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分9.6",
+                "lastest_short_title": "110",
+                "is_finish": 1,
+                "main_style_name": "都市",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 9.606,
+                "styles": ["都市"],
+                "tags": ["同居", "异能", "宅男", "御姐", "搞笑"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "26672",
+            "parent_id": "26672",
+            "title": "平凡职业造就世界最强",
+            "jump_value": "bilicomic://reader_progress/26672",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/d82ba9fd77ca92c4d5300530d082b7c67489ea00.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分高于82%同类",
+                "lastest_short_title": "64",
+                "is_finish": 0,
+                "main_style_name": "奇幻",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 8.0955,
+                "styles": ["奇幻"],
+                "tags": ["反差", "战斗", "冒险", "修罗场", "魔法", "金发"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "25545",
+            "parent_id": "25545",
+            "title": "国魂",
+            "jump_value": "bilicomic://reader_progress/25545",
+            "type": 0,
+            "image": "http://i0.hdslb.com/bfs/manga-static/28977649a00746969749a25e75d43d80b7655994.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分高于98%同类",
+                "lastest_short_title": "048-5",
+                "is_finish": 1,
+                "main_style_name": "历史",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 8.936,
+                "styles": ["历史"],
+                "tags": ["乱世"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }, {
+            "item_id": "27379",
+            "parent_id": "27379",
+            "title": "虚构推理",
+            "jump_value": "bilicomic://reader_progress/27379",
+            "type": 0,
+            "image": "https://i0.hdslb.com/bfs/manga-static/6fe299376444261b1d6fa51c39cc17f8cb181a59.jpg",
+            "icons": {
+                "allow_wait_free": false,
+                "discount_type": 0,
+                "single_icon": 0,
+                "double_icon": 0,
+                "new_comic": false
+            },
+            "description": {
+                "description": "",
+                "ext": "{\"ab\":{\"ee_h\":0,\"f_c\":0,\"h_c\":0,\"vec\":0},\"m\":\"dnn_kb\",\"o\":[6],\"p\":\"home\",\"trace_id\":\"2b9743ce3b653003\",\"ty\":0,\"v\":\"v1\"}"
+            },
+            "shop": {
+                "price": 0,
+                "deposit_price": 0,
+                "wish_count": 0
+            },
+            "comic_info": {
+                "decision": "评分高于93%同类",
+                "lastest_short_title": "61",
+                "is_finish": 0,
+                "main_style_name": "悬疑灵异",
+                "rank_info": {
+                    "name": "",
+                    "rank": 0
+                },
+                "score": 8.6547,
+                "styles": ["悬疑灵异"],
+                "tags": ["推理", "恋爱", "美女", "学生", "智斗"]
+            },
+            "labels": [{
+                "id": "c:n",
+                "name": "不感兴趣"
+            }],
+            "combine": {
+                "id": 0,
+                "title": "",
+                "subtitle": "",
+                "booknum": 0,
+                "period": 0,
+                "books": []
+            },
+            "rank": {
+                "id": 0,
+                "title": "",
+                "description": "",
+                "data": []
+            },
+            "ip_product": {
+                "id": "0",
+                "name": "",
+                "products": [],
+                "new_product": false
+            }
+        }],
+        "show_times": 3
+    }
+}
