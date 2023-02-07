@@ -12,6 +12,7 @@ import TheListPage from "@/components/TheListPage.vue"
 import SeachPage from "@/components/SeachPage.vue"
 
 import { useMainStore } from '@/stores/counter'
+import { unknownProp } from "vant/lib/utils";
 
 const mainStore = useMainStore()
 
@@ -54,10 +55,10 @@ onMounted(() => {
 // 推荐
 async function gerRecommend() {
   // 推荐
-  let swiper:any = await Api.getRecommendSwiperList();
+  let swiper: any = await Api.getRecommendSwiperList();
   let res = await Api.getRecommendData();
 
-    swiperList.value = swiper.data
+  swiperList.value = swiper.data
 
 
   for (let i = 0; i < res.data.list.length; i++) {

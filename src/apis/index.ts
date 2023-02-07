@@ -152,7 +152,7 @@ export const Api = {
     },
     getManHuaThree: (url: any) => {
         return http.request({
-            url: '/api/ImageToken?urls=[%22https://manga.hdslb.com/bfs/manga/' + url + '.jpg@660w.webp%22]',
+            url: '/api/ImageToken?urls=[%22https://manga.hdslb.com' + url + '%22]',
             method: 'get'
         })
     },

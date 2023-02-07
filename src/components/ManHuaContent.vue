@@ -1,8 +1,8 @@
 <template>
     <div class="man-hua" :class="{ nightDetails: nightModel == true }" @click="clickOffNo">
 
-        <img :src="imgString" alt="">
-        <div class="bg" v-for="u in urlString"><img :src="u.path"></div>
+        <img :src="imgString">
+        <div class="bg" v-for="u in urlString"><img :src="u.path" onerror="this.style.display='none'"></div>
 
         <van-popup v-model:show="show" position="top" :style="{ height: '6%', backgroundColor: 'rgba(0,0,0,.5)' }"
             :overlay="false" z-index="3">
@@ -77,9 +77,9 @@ const nightModel = ref<boolean>(false)
 const charShow = ref<boolean>(false)
 const manHua = ref<any>()
 const index = ref<number>(0)
+const objArray = ref<Array<object>>()
 
 const urlString = ref<any>([])
-// const urlStringList = ref<any>([])
 const titleString = ref<string>()
 const imgString = ref<string>()
 const newNum = ref(num)
@@ -94,10 +94,16 @@ const numIdArr = ref<Array<{ id: number | undefined, chapId: number | undefined 
 
 
 onMounted(() => {
-    let ifNight: any = localStorage.getItem("detailsNightModel")
-    nightModel.value = JSON.parse(ifNight)
-    let idVa: any = localStorage.getItem("bookId")
-    idVa = JSON.parse(idVa)
+    let ifNight = localStorage.getItem("detailsNightModel")
+    if (ifNight != null) {
+        nightModel.value = JSON.parse(ifNight)
+    }
+
+    let idVa = localStorage.getItem("bookId")
+    if (idVa != null) {
+        idVa = JSON.parse(idVa)
+    }
+
     showPopup.value = true
 
     historyReadRate()
@@ -168,6 +174,7 @@ const getManHuaTwo = async (id: any) => {
 
     for (let i = 0; i < data.images.length; i++) {
         getManHuaThree(data.images[i].path)
+
     }
     var index = manHua.value.findIndex((item: any) => {
         return item.id == newNum.value
@@ -181,20 +188,22 @@ const getManHuaTwo = async (id: any) => {
 }
 const getManHuaThree = async (url: any) => {
     urlString.value = []
+
     let { data }: any = await Api.getManHuaThree(url)
 
     let obj: any = {
-        // path: `https://manga.hdslb.com/bfs/manga/00a51ace92423b516f31ed6c697c1cccf423fbf6.jpg?token=00e4123f34d6ef834da28c1e75336393&ts=639a9c06`
-        path: `https://manga.hdslb.com${url}?token=${data[0].token}`
-
+        path: `https://manga.hdslb.com${url}?token=${data[0].token}`,
     }
     urlString.value?.push(obj)
+
+
+
     imgString.value = manHua.value[itemIndex.value].cover
-    console.log(urlString.value);
 
     showPopup.value = false
-    // getNumList()
+
 }
+
 
 const upOneWord = () => {
     showPopup.value = true
@@ -278,22 +287,6 @@ const getHistoryRead = () => {
         localStorage.setItem("historyRead", JSON.stringify(numIdArr.value))
     }
 }
-
-// const getScrollBottom = (e: any) => {
-
-
-//     if (e.target.scrollHeight - e.target.scrollTop < 820) {
-
-//         for (let u = numIndex.value; u < urlString.value.length; u++) {
-//             if (u != numIndex.value) {
-//                 urlStringList.value.push(urlString.value[u])
-//                 console.log(urlStringList.value);
-//                 numIndex.value = numIndex.value + 10
-//             }
-//         }
-//     }
-
-// }
 
 
 const clickReturn = () => {
@@ -461,5 +454,10 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+img[src=''],
+img:not([src]) {
+    opacity: 0;
 }
 </style>

@@ -16,7 +16,7 @@
                     <div class="history-item-char">更新：{{ h.upDate }}</div>
                 </div>
                 <div class="history-delete" v-show="editShow == true">
-                    <div class="history-delete-icon" @click="clickHistory(h.id)">
+                    <div class="history-delete-icon" @click.stop="clickHistory(h.id)">
                         <van-icon name="delete-o" size="30px" color="red" />
                     </div>
 
